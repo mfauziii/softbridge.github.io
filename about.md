@@ -3,7 +3,7 @@ layout: default
 title: "About"
 permalink: /about/
 ---
-# About SOFTBRIDGE Enterprise 
+# About Us 
 
 At our company, we specialize in delivering **top-notch software development services** using **.NET technologies**. Our team of experienced developers is dedicated to creating high-quality, reliable, and scalable software solutions tailored to meet your business needs.
 
