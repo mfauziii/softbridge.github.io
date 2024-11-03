@@ -6,7 +6,7 @@ title: "Privacy"
 Last Updated: NOV 3, 2024
 
 **Introduction**  
-Welcome to **SOFTBRIDGE Enterprise**. We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. This Privacy Policy outlines how we collect, use, and protect your information when you use our services.
+Welcome to **SOFTBRIDGE <sup><small>enterprise</small></sup>**. We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. This Privacy Policy outlines how we collect, use, and protect your information when you use our services.
 
 **Information We Collect**  
 We may collect the following types of information:
@@ -41,5 +41,5 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 **Contact Us**  
 If you have any questions about this Privacy Policy, please contact us at:
 
-**SOFTBRIDGE Enterprise**  
+**SOFTBRIDGE <sup><small>enterprise</small></sup>**  
 enquiry@softbridge.com.my
