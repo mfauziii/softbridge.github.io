@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Privacy
+title: "Privacy"
 ---
 # Privacy Policy
 Last Updated: NOV 3, 2024
 
 # Introduction
-Welcome to ** Softbridge Enterprise **. We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. This Privacy Policy outlines how we collect, use, and protect your information when you use our services.
+Welcome to **Softbridge Enterprise**. We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. This Privacy Policy outlines how we collect, use, and protect your information when you use our services.
 
 # Information We Collect
 We may collect the following types of information:
