@@ -1,2 +1,22 @@
 <div>
+  <h2>Our Products</h2>
+  <p>
+    Introducing <strong>MSAD Insights</strong> – your ultimate tool for Active Directory management and user activity monitoring.
+  </p>
+  <p>
+    <strong>Key Features:</strong>
+    <ol>
+       <li><strong>One-Way User:</strong> Seamlessly synchronize Active Directory users to a database, ensuring your analytical data is always current and accurate.
+       </li>
+       <li><strong>Account Activity Tracking:</strong> Collect detailed user login activities and monitor account status changes, including lockouts, disabled accounts, inactive users, and newly created accounts.
+       </li>
+       <li><strong>Graphical Insights:</strong> Empower administrators with intuitive graphical representations of user activities, making it easier to discover patterns and manage your Active Directory environment effectively.
+       </li>
+    </ol>
+  </p>
+  <p>
+     <strong>MSAD Insights</strong> simplifies Active Directory management, providing you with the insights you need to maintain a secure and efficient IT infrastructure.
+
+Ready to transform your Active Directory management? Discover the power of <strong>MSAD Insights</strong> today!
+  </p>
 </div>
