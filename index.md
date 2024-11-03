@@ -2,7 +2,7 @@
 layout: default
 title: "Home"
 ---
-# SOFTBRIDGE Enterprise
+# SOFTBRIDGE <sup><small>enterprise</small></sup>
 ***Your Trusted IT Solutions Partner***  
 We are your trusted partner in delivering top-notch IT solutions tailored to meet your business needs.    
 
@@ -20,4 +20,4 @@ We are your trusted partner in delivering top-notch IT solutions tailored to mee
    - **Mobile Applications:** Create intuitive and user-friendly mobile applications for both iOS and Android platforms to reach your customers on the go.
   
 # Why Choose Us?  
-At **SOFTBRIDGE Enterprise**, we are committed to delivering excellence through innovative solutions and exceptional customer service. Let us help you bridge the gap between your IT challenges and business success!
+At **SOFTBRIDGE <sup><small>enterprise</small></sup>**, we are committed to delivering excellence through innovative solutions and exceptional customer service. Let us help you bridge the gap between your IT challenges and business success!
