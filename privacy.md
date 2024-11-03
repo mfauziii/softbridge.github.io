@@ -10,7 +10,7 @@ Welcome to **Softbridge Enterprise**. We are committed to protecting your privac
 
 # Information We Collect
 We may collect the following types of information:
-- ** Personal Information:** Name, email address, phone number, and other contact details.
+- **Personal Information:** Name, email address, phone number, and other contact details.
 - ** Technical Information:** IP address, browser type, operating system, and other technical details.
 - ** Usage Information:** Information about how you use our website and services, including pages visited, time spent on the site, and other usage statistics.
 
