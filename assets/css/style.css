@@ -27,7 +27,7 @@ ol li {
     margin-bottom: 10px; /* Adjust the value as needed */
 }
 
-.navbar-collapse.collapse {
+.navbar-collapse-fullpage.collapse {
     width: 100vw;
     height: 100vh;
     top: 0;
@@ -36,7 +36,7 @@ ol li {
     background-color: rgba(0, 0, 0, 0.8);
     display: none;
 }
-.navbar-collapse {
+.navbar-collapse-fullpage {
     display: block;
 }
 
