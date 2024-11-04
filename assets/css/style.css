@@ -19,6 +19,14 @@ body {
   margin-bottom: 60px;
 }
 
+ol {
+    margin-bottom: 20px; /* Adjust the value as needed */
+}
+
+ol li {
+    margin-bottom: 10px; /* Adjust the value as needed */
+}
+
 footer{
   position: absolute;
   bottom: 0;
