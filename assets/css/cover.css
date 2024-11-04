@@ -23,7 +23,7 @@
 .background-fade {
     position: relative;
     width: 100%;
-    height: 100vh; /* Adjust height as needed */
+    height: 80vh; /* Adjust height as needed */
     background: url('/assets/images/background1.jpg') no-repeat center center;
     background-size: cover;
 }
