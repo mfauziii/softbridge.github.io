@@ -27,6 +27,22 @@ ol li {
     margin-bottom: 10px; /* Adjust the value as needed */
 }
 
+.supsub {
+    display: inline-block;
+}
+
+.supsub sup,
+.supsub sub {
+    position: relative;
+    display: block;
+    font-size: .5em;
+    line-height: 1.2;
+}
+
+.supsub sub {
+    top: .3em;
+}
+
 footer{
   position: absolute;
   bottom: 0;
