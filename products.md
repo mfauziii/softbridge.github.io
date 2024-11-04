@@ -13,8 +13,3 @@ Introducing **MSAD Insights** – your ultimate tool for Active Directory manage
  
 **MSAD Insights** simplifies Active Directory management, providing you with the insights you need to maintain a secure and efficient IT infrastructure. Ready to transform your Active Directory management? Discover the power of **MSAD Insights** today!
 
-
-<!-- Floating Button -->
-    <a href="mailto:enquiry@softbridge.com.my?subject=Your%20Subject&body=Your%20message%20here" class="btn btn-primary floating-btn">
-        <i class="bi bi-envelope"></i>
-    </a>
