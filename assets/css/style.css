@@ -27,11 +27,23 @@ ol li {
     margin-bottom: 10px; /* Adjust the value as needed */
 }
 
+.dropdown-menu-fullpage {
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: none;
+}
+.dropdown-menu-fullpage.show {
+    display: block;
+}
+
 .supsub {
     display: inline-block;
   
 }
-
 .supsub sup,
 .supsub sub {
     position: relative;
