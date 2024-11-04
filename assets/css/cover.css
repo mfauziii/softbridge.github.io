@@ -8,7 +8,7 @@
 
 .nav-masthead .nav-link:hover,
 .nav-masthead .nav-link:focus {
-  border-bottom-color: rgba(255, 255, 255, .25);
+  border-bottom-color: rgba(128, 128, 128, .25);
 }
 
 .nav-masthead .nav-link + .nav-link {
@@ -16,6 +16,6 @@
 }
 
 .nav-masthead .active {
-  color: #fff;
-  border-bottom-color: #fff;
+  color: #808080;
+  border-bottom-color: #808080;
 }
