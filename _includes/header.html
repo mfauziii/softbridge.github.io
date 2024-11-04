@@ -10,24 +10,24 @@
       	<span class="navbar-toggler-icon"></span>
       </button>
       <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-          <ul class="navbar-nav flex-grow-1">
+          <ul class="navbar-nav flex-grow-1 justify-content-end">
               <li class="nav-item">
                   <a class="nav-link text-dark" href="/">Home</a>
               </li>
               <li class="nav-item">
                   <a class="nav-link text-dark" href="/products">Products</a>
               </li>
+              <li class="nav-item dropdown btn-group">
+                  <a class="nav-link pe-2" role="button" href="/about">About</a>
+              	  <a class="nav-link dropdown-toggle dropdown-toggle-split" href="#" id="navbarDropdown2" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                	<span class="visually-hidden">Toggle Dropdown</span>
+                  </a>
+              	  <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown2">
+                	<li><a class="dropdown-item" href="/contactus">Contact Us</a></li>
+                	<li><a class="dropdown-item" href="/privacy">Privacy</a></li>
+              	  </ul>
+              </li>
           </ul>
-          <div class="d-flex dropdown btn-group">
-              <a class="nav-link pe-2" role="button" href="/about">About</a>
-              <a class="nav-link dropdown-toggle dropdown-toggle-split" href="#" id="navbarDropdown2" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                <span class="visually-hidden">Toggle Dropdown</span>
-              </a>
-              <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown2">
-                <li><a class="dropdown-item" href="/contactus">Contact Us</a></li>
-                <li><a class="dropdown-item" href="/privacy">Privacy</a></li>
-              </ul>
-          </div>
        </div>
     </div>
   </nav>
