@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: "Home"
 ---
 # Bridging Technology, Fostering Innovation, Empowering Solutions
