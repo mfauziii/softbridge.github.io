@@ -29,6 +29,7 @@ ol li {
 
 .supsub {
     display: inline-block;
+  
 }
 
 .supsub sup,
@@ -36,7 +37,7 @@ ol li {
     position: relative;
     display: block;
     font-size: .5em;
-    line-height: 1.2;
+    line-height: 0.5;
 }
 
 .supsub sub {
