@@ -13,7 +13,7 @@
     var currentPath = window.location.pathname.split("/").pop();
 
     links.forEach(function(link) {
-        var linkPath = link.getAttribute('href');
+        var linkPath = link.getAttribute('href').split("/").pop();
         if (linkPath === currentPath) {
             link.classList.add('active');
         }
