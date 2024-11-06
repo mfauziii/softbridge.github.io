@@ -42,7 +42,6 @@ ol li {
 
 .supsub {
     display: inline-block;
-  
 }
 .supsub sup,
 .supsub sub {
@@ -51,9 +50,11 @@ ol li {
     font-size: .5em;
     line-height: 0.5;
 }
-
+.supsub sup{
+  top: -.6em;
+}
 .supsub sub {
-    top: .3em;
+    top: .1em;
 }
 
 footer{
