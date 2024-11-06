@@ -1,6 +1,5 @@
 ---
 layout: main
-title: "Home"
 ---
 # Bridging Technology, Fostering Innovation, Empowering Solutions
 ***Your Trusted IT Solutions Partner***  
