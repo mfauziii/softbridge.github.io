@@ -1,4 +1,4 @@
-/*@media (min-width: 576px){*/
+@media (min-width: 576px){*/
   .nav-masthead .nav-link {
     padding: .25rem 0;
     font-weight: 700;
@@ -17,9 +17,8 @@
     color: #808080;
     border-bottom-color: #808080;
   }
-/*}*/
+}
 
-/*
 .offcanvas.show .nav-masthead .nav-link.active {
     background: rgb(248, 249, 250);
     border-top-right-radius: 10px;
@@ -32,7 +31,6 @@
     font-size: large;
     font-weight: normal;
 }
-*/
 
 .background-fade {
     position: relative;
