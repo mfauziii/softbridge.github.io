@@ -40,19 +40,6 @@ ol li {
     display: block;
 }
 
-.offcanvas.show .nav-masthead .nav-link.active {
-    background: rgb(248, 249, 250);
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-    font-weight: bolder;
-}
-
-.offcanvas.show .nav-masthead .nav-link{
-    line-height: 60px;
-    padding: 0 40px;
-    font-size: large;
-    font-weight: normal;
-}
 
 .supsub {
     display: inline-block;
