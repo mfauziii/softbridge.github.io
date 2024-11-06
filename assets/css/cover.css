@@ -19,6 +19,7 @@
   }
 }
 
+.offcanvas.show .nav-masthead .dropdown-item, 
 .offcanvas.show .nav-masthead .nav-link.active {
     background: rgb(248, 249, 250);
     border-top-right-radius: 10px;
