@@ -13,7 +13,7 @@ title: "Pricing"
       <div class="pricing-card">
           <div class="pricing-header text-center">
               <h3>Basic</h3>
-              <h2>$220/month</h2>
+              <h2>RM220/month</h2>
               <p>Up to 500 AD Accounts</p>
           </div>
           <ul class="list-group list-group-flush">
@@ -34,7 +34,7 @@ title: "Pricing"
       <div class="pricing-card">
           <div class="pricing-header text-center">
               <h3>Pro</h3>
-              <h2>$550/month</h2>
+              <h2>RM550/month</h2>
               <p>Up to 2,000 AD Accounts</p>
           </div>
           <ul class="list-group list-group-flush">
@@ -55,7 +55,7 @@ title: "Pricing"
       <div class="pricing-card">
           <div class="pricing-header text-center">
               <h3>Enterprise</h3>
-              <h2>$1,100/month</h2>
+              <h2>RM1,100/month</h2>
               <p>Up to 10,000 AD Accounts</p>
           </div>
           <ul class="list-group list-group-flush">
@@ -80,7 +80,7 @@ title: "Pricing"
       <div class="pricing-card">
           <div class="pricing-header text-center">
               <h3>Basic</h3>
-              <h2>$11,000 One-Time</h2>
+              <h2>RM11,000 One-Time</h2>
               <p>Up to 1,000 AD Accounts</p>
           </div>
           <ul class="list-group list-group-flush">
@@ -102,7 +102,7 @@ title: "Pricing"
       <div class="pricing-card">
           <div class="pricing-header text-center">
               <h3>Pro</h3>
-              <h2>$22,000 One-Time</h2>
+              <h2>RM22,000 One-Time</h2>
               <p>Up to 5,000 AD Accounts</p>
           </div>
           <ul class="list-group list-group-flush">
@@ -123,7 +123,7 @@ title: "Pricing"
       <div class="pricing-card">
           <div class="pricing-header text-center">
               <h3>Enterprise</h3>
-              <h2>$55,000 One-Time</h2>
+              <h2>RM55,000 One-Time</h2>
               <p>Up to 20,000 AD Accounts</p>
           </div>
           <ul class="list-group list-group-flush">
