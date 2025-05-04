@@ -13,7 +13,7 @@ title: "Pricing"
       <div class="pricing-card">
           <div class="pricing-header text-center">
               <h3>Basic</h3>
-              <h2>RM220/month</h2>
+              <h2>RM990/month</h2>
               <p>Up to 500 AD Accounts</p>
           </div>
           <ul class="list-group list-group-flush">
@@ -34,7 +34,7 @@ title: "Pricing"
       <div class="pricing-card">
           <div class="pricing-header text-center">
               <h3>Pro</h3>
-              <h2>RM550/month</h2>
+              <h2>RM2,475/month</h2>
               <p>Up to 2,000 AD Accounts</p>
           </div>
           <ul class="list-group list-group-flush">
@@ -55,7 +55,7 @@ title: "Pricing"
       <div class="pricing-card">
           <div class="pricing-header text-center">
               <h3>Enterprise</h3>
-              <h2>RM1,100/month</h2>
+              <h2>RM4,950/month</h2>
               <p>Up to 10,000 AD Accounts</p>
           </div>
           <ul class="list-group list-group-flush">
