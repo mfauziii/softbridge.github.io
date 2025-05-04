@@ -72,10 +72,9 @@ title: "Pricing"
   </div>
 </div>
 
+<!--
 ### On-Premises Plans
-
 <div class="row">
-  <!-- Basic Plan -->
   <div class="col-md-4 mb-4">
       <div class="pricing-card">
           <div class="pricing-header text-center">
@@ -97,7 +96,6 @@ title: "Pricing"
       </div>
   </div>
 
-  <!-- Pro Plan -->
   <div class="col-md-4 mb-4">
       <div class="pricing-card">
           <div class="pricing-header text-center">
@@ -118,7 +116,6 @@ title: "Pricing"
       </div>
   </div>
 
-  <!-- Enterprise Plan -->
   <div class="col-md-4 mb-4">
       <div class="pricing-card">
           <div class="pricing-header text-center">
@@ -139,3 +136,4 @@ title: "Pricing"
       </div>
   </div>
 </div>
+-->
