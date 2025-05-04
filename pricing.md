@@ -5,7 +5,7 @@ title: "Pricing"
 
 # Pricing Plans
 
-## Subscription-Based Plans
+### Subscription-Based Plans
 
 <div class="row">
   <!-- Basic Plan -->
@@ -72,7 +72,7 @@ title: "Pricing"
   </div>
 </div>
 
-## On-Premises Plans
+### On-Premises Plans
 
 <div class="row">
   <!-- Basic Plan -->
