@@ -1,6 +1,8 @@
 ---
 layout: pricingplans
 title: "Pricing"
+description: "Discover competitive pricing for IT solutions including Active Directory, ADFS integration, .NET application development, and more at SOFTBRIDGE. Get tailored plans to fit your business needs."
+keywords: "IT pricing, software development cost, Active Directory pricing, ADFS integration cost, .NET application pricing, SOFTBRIDGE pricing, IT solutions pricing, custom software pricing, Penang IT services"
 ---
 
 # Pricing Plans
