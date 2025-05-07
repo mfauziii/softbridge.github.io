@@ -17,4 +17,6 @@ sitemap:
     - "/admin/"
     - "/config/"
     - "/temp/"
+    - "/assets/images/"
+    - "/pricingp3.html"
 
