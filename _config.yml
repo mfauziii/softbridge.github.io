@@ -10,5 +10,12 @@ theme: minima
 plugins:
   - jekyll-sitemap
 
+defaults:
+  -
+    scope:
+      path: "assets/images/"
+    values:
+      sitemap: false
+
 
 
