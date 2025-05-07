@@ -1,6 +1,8 @@
 ---
 layout: products
 title: "Products"
+description: "MSAD Insights – The ultimate tool for Active Directory management and user activity monitoring. Track login activities, synchronize accounts, and gain graphical insights for better IT infrastructure management."
+keywords: "Active Directory management, user activity monitoring, MSAD Insights, account synchronization, login activity tracking, IT infrastructure insights, Active Directory tools, account lockout monitoring, user account status, Active Directory analytics, SOFTBRIDGE products"
 ---
 
 # Our Products  
