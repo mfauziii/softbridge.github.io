@@ -15,10 +15,10 @@ plugins:
 sitemap:
   filename: "sitemap.xml"
   exclude:
-    - "/admin/"
-    - "/config/"
-    - "/temp/"
-    - "/assets/images/"
-    - "/pricingp3.html"
+    - "admin/"
+    - "config/"
+    - "temp/"
+    - "assets/images/"
+    - "pricingp3.html"
 
 
