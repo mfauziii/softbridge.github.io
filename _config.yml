@@ -10,15 +10,5 @@ theme: minima
 plugins:
   - jekyll-sitemap
 
-sitemap:
-  filename: "/sitemap.xml"
-  exclude:
-    - "/.vs/"
-    - "/_includes/"
-    - "/_layouts/"
-    - "/assets/images/"
-    - "/pricingp3.html"
-
-
 
 
