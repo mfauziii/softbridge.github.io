@@ -1,6 +1,8 @@
 ---
 layout: services
 title: "Services"
+description: "Discover our range of IT services including Active Directory deployment, ADFS integration, Microsoft Exchange deployment and .NET application development."
+keywords: "Active Directory, ADFS, .NET development,Microsoft Exchange, IT services"
 ---
 
 # Our Services 
