@@ -1,6 +1,7 @@
 ---
 layout: pricingplans
 title: Pricing Plans
+sitemap: false
 ---
 
 # Pricing Plans
