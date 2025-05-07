@@ -8,15 +8,4 @@ baseurl: ""
 url: "http://www.softbridge.com.my"
 theme: minima
 
-plugins:
-  - jekyll-sitemap
-
-sitemap:
-  filename: "sitemap.xml"
-  exclude:
-    - "/admin/"
-    - "/config/"
-    - "/temp/"
-    - "/assets/images/"
-    - "/pricingp3.html"
 
