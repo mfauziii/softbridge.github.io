@@ -6,7 +6,7 @@ keywords: "queue management system, QMS, digital queue, clinic queue system, cus
 author: "SOFTBRIDGE Enterprise"
 ---
 
-## NGQMS Lite – Smart Queue, Smarter Experience  
+# NGQMS Lite – Smart Queue, Smarter Experience  
 
 
 ### 🚀 Why Queue Management Matters
@@ -48,21 +48,21 @@ E --> F[Audio Announcement]
 
 ### 🧩 System Components
 
-### 🖥️ QueueBoard (Display)
+** 🖥️ QueueBoard (Display)**
 - 10–14 inch wall-mounted Android display  
 - Built-in speaker for audio announcements  
 - Displays current queue number and service location  
 
 ---
 
-### 🧾 QueueKiosk (Ticket Issuing Device)
+** 🧾 QueueKiosk (Ticket Issuing Device)**
 - SUNMI V3 Mix device  
 - Integrated thermal printer  
 - Optional QR-based ticketing  
 
 ---
 
-### 💻 QueueDesk (Staff Panel)
+** 💻 QueueDesk (Staff Panel)**
 - Runs on existing computers or laptops  
 - Provides simple and intuitive controls:
   - Call next  
@@ -108,7 +108,7 @@ E --> F[Audio Announcement]
 
 ### 📦 Solution Packages
 
-### Package Comparison
+** Package Comparison**
 
 | Feature         | Lite Basic       | Lite Pro           | Enterprise              |
 |-----------------|------------------|--------------------|-------------------------|
