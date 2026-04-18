@@ -8,6 +8,7 @@ author: "SOFTBRIDGE Enterprise"
 
 ## NGQMS Lite – Smart Queue, Smarter Experience  
 
+
 ### 🚀 Why Queue Management Matters
 
 Customers don’t just wait — they **experience the wait**.
