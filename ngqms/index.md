@@ -37,14 +37,12 @@ NGQMS Lite is a cloud-based queue management solution designed to streamline cus
 ### ⚙️ How It Works
 
 ```mermaid
-flowchart TD
-A[Customer Registration] --> B[Queue Ticket Issued]
-B --> C[QueueDesk - Staff Control]
-C --> D[Call Next Customer]
-D --> E[QueueBoard Display]
-E --> F[Audio Announcement]
-
----
+flowchart LR
+A[Register] --> B[Ticket Issued]
+B --> C[QueueDesk]
+C --> D[Call Next]
+D --> E[Display]
+E --> F[Announcement]
 
 ### 🧩 System Components
 
