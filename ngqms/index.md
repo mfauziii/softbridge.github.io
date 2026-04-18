@@ -8,7 +8,7 @@ author: "SOFTBRIDGE Enterprise"
 
 ## NGQMS Lite – Smart Queue, Smarter Experience  
 
-## 🚀 Why Queue Management Matters
+### 🚀 Why Queue Management Matters
 
 Customers don’t just wait — they **experience the wait**.
 
@@ -21,7 +21,7 @@ Industry benchmarks indicate:
 
 ---
 
-## 🧠 Overview
+### 🧠 Overview
 
 NGQMS Lite is a cloud-based queue management solution designed to streamline customer flow in clinics and service environments.
 
@@ -33,7 +33,7 @@ NGQMS Lite is a cloud-based queue management solution designed to streamline cus
 
 ---
 
-## ⚙️ How It Works
+### ⚙️ How It Works
 
 ```mermaid
 flowchart TD
@@ -45,7 +45,7 @@ E --> F[Audio Announcement]
 
 ---
 
-## 🧩 System Components
+### 🧩 System Components
 
 ### 🖥️ QueueBoard (Display)
 - 10–14 inch wall-mounted Android display  
@@ -70,7 +70,7 @@ E --> F[Audio Announcement]
 
 ---
 
-## 🔄 System Workflow
+### 🔄 System Workflow
 
 | Step | What Happens | System Component | What the User Sees | Business Impact |
 |------|--------------|------------------|--------------------|-----------------|
@@ -87,7 +87,7 @@ E --> F[Audio Announcement]
 ---
 
 
-## 🆚 Traditional QMS vs NGQMS
+### 🆚 Traditional QMS vs NGQMS
 
 | Area                 | Traditional QMS                          | NGQMS (SOFTBRIDGE)                        |
 |----------------------|------------------------------------------|-------------------------------------------|
@@ -105,7 +105,7 @@ E --> F[Audio Announcement]
 
 ---
 
-## 📦 Solution Packages
+### 📦 Solution Packages
 
 ### Package Comparison
 
@@ -148,9 +148,7 @@ NGQMS is built with a modular architecture, allowing organizations to scale from
 
 ---
 
----
-
-## 💡 Key Benefits
+### 💡 Key Benefits
 
 - Reduced waiting confusion  
 - Improved operational efficiency  
@@ -160,7 +158,7 @@ NGQMS is built with a modular architecture, allowing organizations to scale from
 
 ---
 
-## 🏢 Suitable For
+### 🏢 Suitable For
 
 NGQMS is suitable for a wide range of industries:
 
@@ -173,7 +171,7 @@ Anywhere customers wait — NGQMS delivers value.
 
 ---
 
-## ☁️ Cloud-Based Platform
+### ☁️ Cloud-Based Platform
 
 - No on-premise server required  
 - Secure internet-based access  
@@ -182,7 +180,7 @@ Anywhere customers wait — NGQMS delivers value.
 
 ---
 
-## 🎯 Final Thought
+### 🎯 Final Thought
 
 Customers may forget how long they waited,  
 but they will always remember **how it felt**.
@@ -191,7 +189,7 @@ NGQMS ensures that every interaction feels **smooth, fair, and professional**.
 
 ---
 
-## 📞 Contact
+### 📞 Contact
 
 **SOFTBRIDGE Enterprise**  
 🌐 https://www.softbridge.com.my  
