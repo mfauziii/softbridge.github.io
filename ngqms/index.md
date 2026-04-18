@@ -1,4 +1,3 @@
-# SOFTBRIDGE Enterprise  
 ## NGQMS Lite – Smart Queue, Smarter Experience  
 
 ---
@@ -78,7 +77,9 @@ E --> F[Audio Announcement]
 | 5 | Audio announcement is played | QueueBoard | Voice notification | Improves accessibility and awareness |
 | 6 | Customer proceeds to service point | — | Clear direction | Faster service turnaround |
 
+
 > This structured workflow ensures that every customer interaction is predictable, efficient, and professionally managed.
+
 ---
 
 
