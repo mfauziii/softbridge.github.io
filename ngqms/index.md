@@ -32,6 +32,8 @@ NGQMS Lite is a cloud-based queue management solution designed to streamline cus
 - Enhances customer experience  
 - Ready within minutes  
 
+---
+
 ### 🧩 System Components
 
 **🖥️ QueueBoard (Display)**
@@ -39,16 +41,12 @@ NGQMS Lite is a cloud-based queue management solution designed to streamline cus
 - Built-in speaker for audio announcements  
 - Displays current queue number and service location  
 
----
-
 **🧾 QueueKiosk (Ticket Issuing Device)**
 - SUNMI V3 Mix device  
 - Integrated thermal printer  
 - Optional QR-based ticketing  
 
----
-
-** 💻 QueueDesk (Staff Panel) **
+**💻 QueueDesk (Staff Panel)**
 - Runs on existing computers or laptops  
 - Provides simple and intuitive controls:
   - Call next  
@@ -94,7 +92,7 @@ NGQMS Lite is a cloud-based queue management solution designed to streamline cus
 
 ### 📦 Solution Packages
 
-** Package Comparison**
+**Package Comparison**
 
 | Feature         | Lite Basic       | Lite Pro           | Enterprise              |
 |-----------------|------------------|--------------------|-------------------------|
@@ -107,21 +105,15 @@ NGQMS Lite is a cloud-based queue management solution designed to streamline cus
 
 > * Expandable via add-on packages  
 
----
-
-### Lite Basic
+**Lite Basic**
 
 Designed for small clinics or single-counter environments, Lite Basic provides essential queue functionality with minimal setup.
 
----
-
-### Lite Pro
+**Lite Pro**
 
 Lite Pro supports multi-station operations and higher service volume, making it suitable for growing clinics or service centers.
 
----
-
-### Enterprise
+**Enterprise**
 
 Enterprise is a full-scale queue orchestration platform that supports integration with Hospital Information Systems (HIS), ERP systems, and enterprise applications.
 
