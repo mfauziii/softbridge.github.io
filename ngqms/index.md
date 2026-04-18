@@ -34,33 +34,23 @@ NGQMS Lite is a cloud-based queue management solution designed to streamline cus
 
 ---
 
-### ⚙️ How It Works
-
-```mermaid
-flowchart LR
-A[Register] --> B[Ticket Issued]
-B --> C[QueueDesk]
-C --> D[Call Next]
-D --> E[Display]
-E --> F[Announcement]
-
 ### 🧩 System Components
 
-** 🖥️ QueueBoard (Display)**
+** 🖥️ QueueBoard (Display) **
 - 10–14 inch wall-mounted Android display  
 - Built-in speaker for audio announcements  
 - Displays current queue number and service location  
 
 ---
 
-** 🧾 QueueKiosk (Ticket Issuing Device)**
+** 🧾 QueueKiosk (Ticket Issuing Device) **
 - SUNMI V3 Mix device  
 - Integrated thermal printer  
 - Optional QR-based ticketing  
 
 ---
 
-** 💻 QueueDesk (Staff Panel)**
+** 💻 QueueDesk (Staff Panel) **
 - Runs on existing computers or laptops  
 - Provides simple and intuitive controls:
   - Call next  
