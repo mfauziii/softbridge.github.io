@@ -8,8 +8,6 @@ author: "SOFTBRIDGE Enterprise"
 
 ## NGQMS Lite – Smart Queue, Smarter Experience  
 
----
-
 ## 🚀 Why Queue Management Matters
 
 Customers don’t just wait — they **experience the wait**.
@@ -44,8 +42,6 @@ B --> C[QueueDesk - Staff Control]
 C --> D[Call Next Customer]
 D --> E[QueueBoard Display]
 E --> F[Audio Announcement]
-
----
 
 ---
 
