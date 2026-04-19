@@ -7,7 +7,7 @@ author: "SOFTBRIDGE Enterprise"
 ---
 ### 🧩 System Components
 <p align="center">
-  <img src="../assets/ngqms-lite-solution.png" style="max-width: 800px; width: 100%;">
+  <img src="../assets/images/ngqms-lite-solution-hero.png" style="max-width: 800px; width: 100%;">
 </p>
 
 <p align="center"><em>Complete NGQMS Lite setup in a real service environment</em></p>
