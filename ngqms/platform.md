@@ -24,8 +24,6 @@ author: "SOFTBRIDGE Enterprise"
   - Recall  
   - Mark no-show  
 
----
-
 ### 🔄 System Workflow
 
 | Step | What Happens | System Component | What the User Sees | Business Impact |
@@ -39,8 +37,6 @@ author: "SOFTBRIDGE Enterprise"
 
 
 > This structured workflow ensures that every customer interaction is predictable, efficient, and professionally managed.
-
----
 
 
 ### 🆚 Traditional QMS vs NGQMS
@@ -58,8 +54,6 @@ author: "SOFTBRIDGE Enterprise"
 | Upgrade Path         | System replacement required              | Seamless upgrade (Lite → Enterprise)      |
 
 > NGQMS is not just a queue system — it is a **queue orchestration platform**.
-
----
 
 ### 📦 Solution Packages
 
@@ -88,7 +82,7 @@ Lite Pro supports multi-station operations and higher service volume, making it 
 
 Enterprise is a full-scale queue orchestration platform that supports integration with Hospital Information Systems (HIS), ERP systems, and enterprise applications.
 
----
+👉 [View Pricing Plans →](./pricing.md)
 
 ### Scalability
 
@@ -96,4 +90,12 @@ NGQMS is built with a modular architecture, allowing organizations to scale from
 
 > Start small. Scale as you grow.
 
----
+
+### ☁️ Cloud-Based Platform
+
+- No on-premise server required  
+- Secure internet-based access  
+- Automatic updates and maintenance  
+- Scalable infrastructure  
+
+← [Back to Overview](./index.md)
