@@ -7,7 +7,7 @@ author: "SOFTBRIDGE Enterprise"
 ---
 
 <p align="center">
-  <img src="../assets/queuedesk-white-hero.png" style="max-width: 800px; width: 100%; height: auto;">
+  <img src="../assets/images/queuedesk-white-hero.png" style="max-width: 800px; width: 100%; height: auto;">
 </p>
 # NGQMS – Smart Queue, Smarter Experience  
 
