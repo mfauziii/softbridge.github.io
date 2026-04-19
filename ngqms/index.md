@@ -56,6 +56,10 @@ but they will always remember **how it felt**.
 
 NGQMS ensures that every interaction feels **smooth, fair, and professional**.
 
+## Get Started with NGQMS
+
+👉 [Explore Platform Details →](./platform.md)  
+👉 [View Pricing →](./pricing.md)
 ---
 
 ### 📞 Contact
