@@ -7,8 +7,41 @@ author: "SOFTBRIDGE Enterprise"
 ---
 ### 🧩 System Components
 <div style="display: flex; align-items: center;">
-  <img src="../assets/images/ngqms-lite-system-setup-opt.png" style="width: 40%; margin-right: 20px;">
+  <img src="../assets/images/ngqms-lite-system-setup-opt.png" style="width: 60%; margin-right: 20px;">
   <div>
+    <div>
+      <h4>🖥️ QueueBoard (Display)</h4>
+      <ul>
+        <li>10–14 inch wall-mounted Android display </li>
+        <li>Built-in speaker for audio announcements </li>
+        <li>Displays current queue number and service location</li>
+      </ul>
+    </div>
+    <div>
+      <h4>🧾 QueueKiosk (Ticket Issuing Device)</h4>
+      <ul>
+        <li>SUNMI V3 Mix device</li>
+        <li>Integrated thermal printer</li>
+        <li>Optional QR-based ticketing</li>
+      </ul>
+    </div>
+    <div>
+      <h4>💻 QueueDesk (Staff Panel)</h4>
+      <ul>
+        <li>Runs on existing computers or laptops</li>
+        <li>Provides simple and intuitive controls:
+          <ul>
+            <li>Call next</li>
+            <li>Recall</li>
+            <li>Mark no-show</li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<p align="center"><em>Complete NGQMS Lite setup in a real service environment</em></p>
+
 **🖥️ QueueBoard (Display)**
 - 10–14 inch wall-mounted Android display  
 - Built-in speaker for audio announcements  
@@ -25,11 +58,6 @@ author: "SOFTBRIDGE Enterprise"
   - Call next  
   - Recall  
   - Mark no-show  
-  </div>
-</div>
-<p align="center"><em>Complete NGQMS Lite setup in a real service environment</em></p>
-
-
 
 ### 🔄 System Workflow
 
