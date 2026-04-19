@@ -6,7 +6,9 @@ keywords: "queue management system, QMS, digital queue, clinic queue system, cus
 author: "SOFTBRIDGE Enterprise"
 ---
 
-![NGQMS QueueDesk](../assets/images/queuedesk-white-hero.png)
+<p align="center">
+  <img src="../assets/queuedesk-white-hero.png" style="max-width: 800px; width: 100%; height: auto;">
+</p>
 # NGQMS – Smart Queue, Smarter Experience  
 
 
