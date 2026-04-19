@@ -5,6 +5,7 @@ description: "NGQMS Lite is a cloud-based queue management system designed to im
 keywords: "queue management system, QMS, digital queue, clinic queue system, customer flow management, queue display system, queue kiosk, cloud QMS, NGQMS, SOFTBRIDGE"
 author: "SOFTBRIDGE Enterprise"
 ---
+
 ![NGQMS QueueDesk](../assets/images/queuedesk-white-hero.png)
 # NGQMS – Smart Queue, Smarter Experience  
 
