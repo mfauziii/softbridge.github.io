@@ -42,22 +42,6 @@ author: "SOFTBRIDGE Enterprise"
 </div>
 <p align="center"><em>Complete NGQMS Lite setup in a real service environment</em></p>
 
-**🖥️ QueueBoard (Display)**
-- 10–14 inch wall-mounted Android display  
-- Built-in speaker for audio announcements  
-- Displays current queue number and service location  
-
-**🧾 QueueKiosk (Ticket Issuing Device)**
-- SUNMI V3 Mix device  
-- Integrated thermal printer  
-- Optional QR-based ticketing  
-
-**💻 QueueDesk (Staff Panel)**
-- Runs on existing computers or laptops  
-- Provides simple and intuitive controls:
-  - Call next  
-  - Recall  
-  - Mark no-show  
 
 ### 🔄 System Workflow
 
