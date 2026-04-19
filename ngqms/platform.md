@@ -84,6 +84,7 @@ Enterprise is a full-scale queue orchestration platform that supports integratio
 
 
 This flexible architecture ensures NGQMS grows with your business.
+
 👉 [View Pricing Plans →](./pricing.md)
 
 ### Scalability
