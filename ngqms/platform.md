@@ -82,6 +82,8 @@ Lite Pro supports multi-station operations and higher service volume, making it 
 
 Enterprise is a full-scale queue orchestration platform that supports integration with Hospital Information Systems (HIS), ERP systems, and enterprise applications.
 
+
+This flexible architecture ensures NGQMS grows with your business.
 👉 [View Pricing Plans →](./pricing.md)
 
 ### Scalability
