@@ -83,8 +83,6 @@ keywords: "queue management system pricing, NGQMS pricing, queue system Malaysia
 * Features and hardware components are scalable and can be expanded via add-on packages based on operational requirements.
 </p>
 
----
-
 ## 💡 Optional Add-Ons
 
 Enhance your setup as your business grows:
@@ -94,8 +92,6 @@ Enhance your setup as your business grows:
 - Additional QueueKiosk Devices  
 - Priority Support Package  
 
----
-
 ## 🎯 Why NGQMS Pricing Works
 
 - No upfront infrastructure cost  
@@ -103,11 +99,8 @@ Enhance your setup as your business grows:
 - Scalable pricing aligned with business growth  
 - Flexible add-on model (pay only what you need)  
 
----
-
 ## 🚀 Launch Promotion
 
 Enjoy **FREE trial period (up to 2 months)**  
 Experience the system before committing.
 
----
