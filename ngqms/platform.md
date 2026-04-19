@@ -6,6 +6,11 @@ keywords: "queue management system, QMS, digital queue, clinic queue system, cus
 author: "SOFTBRIDGE Enterprise"
 ---
 ### 🧩 System Components
+<p align="center">
+  <img src="../assets/ngqms-lite-solution.png" style="max-width: 800px; width: 100%;">
+</p>
+
+<p align="center"><em>Complete NGQMS Lite setup in a real service environment</em></p>
 
 **🖥️ QueueBoard (Display)**
 - 10–14 inch wall-mounted Android display  
