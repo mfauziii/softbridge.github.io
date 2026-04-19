@@ -4,8 +4,9 @@ title: "NGQMS Pricing"
 description: "Flexible and scalable pricing for NGQMS Lite, Pro, and Enterprise queue management solutions by SOFTBRIDGE Enterprise."
 keywords: "queue management system pricing, NGQMS pricing, queue system Malaysia, universal queue orchestration platform cost, cloud QMS pricing, NGQMS is designed for any environment where customers wait."
 ---
+# NGQMS Pricing
 
-# NGQMS Pricing Plans
+Simple, transparent pricing that grows with your business.
 
 ### Start Small. Scale as You Grow.
 
@@ -79,11 +80,19 @@ keywords: "queue management system pricing, NGQMS pricing, queue system Malaysia
 
 </div>
 
+### Hardware Bundle (Optional)
+
+- QueueBoard Display (10–14”)  
+- QueueKiosk (SUNMI V3 Mix)  
+- Mounting & setup  
+
+Available as bundled package for quick deployment.
+
 <p class="text-center mt-4">
 * Features and hardware components are scalable and can be expanded via add-on packages based on operational requirements.
 </p>
 
-## 💡 Optional Add-Ons
+### 💡 Optional Add-Ons
 
 Enhance your setup as your business grows:
 
@@ -92,15 +101,31 @@ Enhance your setup as your business grows:
 - Additional QueueKiosk Devices  
 - Priority Support Package  
 
-## 🎯 Why NGQMS Pricing Works
+### 🎯 Why NGQMS Pricing Works
 
 - No upfront infrastructure cost  
 - Affordable entry point for small clinics  
 - Scalable pricing aligned with business growth  
 - Flexible add-on model (pay only what you need)  
 
-## 🚀 Launch Promotion
+### Launch Offer
 
-Enjoy **FREE trial period (up to 2 months)**  
-Experience the system before committing.
+Start with a limited-time free trial.
+
+Experience NGQMS in your real environment before committing.
+
+### Support
+
+- Remote setup assistance  
+- Basic onboarding  
+- Ongoing system support available  
+
+Support packages can be customized based on your needs.
+
+### Get Started
+
+Contact us to get a demo or discuss your setup.
+
+👉 [Back to Overview](./index.md)  
+👉 [Explore Platform Details](./platform.md)
 
