@@ -30,10 +30,6 @@ NGQMS Lite is a cloud-based queue management solution designed to streamline cus
 - Enhances customer experience  
 - Ready within minutes  
 
----
-
-
-
 ### 💡 Key Benefits
 
 - Reduced waiting confusion  
@@ -41,8 +37,6 @@ NGQMS Lite is a cloud-based queue management solution designed to streamline cus
 - Better customer experience  
 - Enhanced professional image  
 - Scalable and future-ready  
-
----
 
 ### 🏢 Suitable For
 
@@ -54,17 +48,6 @@ NGQMS is suitable for a wide range of industries:
 - Repair and service centers  
 
 Anywhere customers wait — NGQMS delivers value.
-
----
-
-### ☁️ Cloud-Based Platform
-
-- No on-premise server required  
-- Secure internet-based access  
-- Automatic updates and maintenance  
-- Scalable infrastructure  
-
----
 
 ### 🎯 Final Thought
 
