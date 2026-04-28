@@ -61,9 +61,9 @@ title: NGQMS
       <div class="col-md-6 col-lg-3">
         <div class="card h-100 shadow-sm">
           <div class="card-body text-start">
-            <h5 class="fw-bold">QueueDesk</h5>
+            <h5 class="fw-bold">QueueKiosk</h5>
             <p class="text-muted">
-              Staff interface to manage queues and serve customers.
+              Visitor interface to get queue number for services.
             </p>
             <img src="../assets/images/ngqms-optz-qkiosk.png" class="img-fluid rounded mt-3">
           </div>
