@@ -5,179 +5,257 @@ permalink: /ngqms/
 ---
 
 <section class="ngqms-hero">
-  <div class="hero-content">
-    <span class="eyebrow">NGQMS — Smart Queue Management System</span>
+  <div class="hero-copy">
+    <div class="breadcrumb">Home › Products › NGQMS</div>
+    <span class="pill">NGQMS — Smart Queue Management System</span>
 
-    <h1>
-      Smarter Queues.<br>
-      <span>Better Experiences.</span>
-    </h1>
+    <h1>End-to-end queue management made simple.</h1>
 
     <p>
-      NGQMS helps you reduce waiting time, manage queues efficiently,
-      and deliver a smoother experience for every customer.
+      NGQMS streamlines the entire customer journey — from ticketing to service —
+      with real-time visibility, smart routing, and powerful analytics.
     </p>
 
+    <ul class="hero-list">
+      <li>Reduce waiting time</li>
+      <li>Improve service efficiency</li>
+      <li>Enhance customer experience</li>
+      <li>Data-driven decision making</li>
+    </ul>
+
     <div class="hero-actions">
-      <a href="mailto:enquiry@softbridge.com.my?subject=NGQMS Demo Request" class="btn-primary">
-        Request Demo →
-      </a>
-      <a href="#how-it-works" class="btn-secondary">
-        See How It Works ▶
-      </a>
+      <a class="btn-primary" href="mailto:enquiry@softbridge.com.my?subject=NGQMS Demo Request">Request Demo →</a>
+      <a class="btn-secondary" href="#how-it-works">Watch Overview ▷</a>
     </div>
   </div>
 
-  <div class="hero-visual">
-    <img src="../assets/images/queuedesk-white-hero-opt.png" alt="NGQMS queue management system display">
+  <div class="hero-image">
+    <img src="/assets/images/ngqms-hero.png" alt="NGQMS platform dashboard, queue board and kiosk">
   </div>
 </section>
 
-<section class="section platform-section">
-  <div class="section-header">
+<section class="section">
+  <div class="section-title">
     <h2>The NGQMS Platform</h2>
-    <p>Everything you need to manage queues from end to end.</p>
+    <p>A complete suite of tools to manage queues efficiently.</p>
   </div>
 
   <div class="platform-grid">
-    <div class="platform-card">
+    <article class="product-card">
       <div class="icon">▣</div>
       <h3>QueueDesk</h3>
       <p>Staff interface to manage queues and serve customers.</p>
-      <img src="/assets/images/ngqms-queuedesk.png" alt="QueueDesk screen">
-    </div>
+      <img src="../assets/images/ngqms-optz-lite-system-setup.png" alt="QueueDesk interface">
+    </article>
 
-    <div class="platform-card">
+    <article class="product-card">
       <div class="icon">▣</div>
       <h3>QueueBoard</h3>
       <p>Live display to keep customers informed.</p>
-      <img src="/assets/images/ngqms-queueboard.png" alt="QueueBoard screen">
-    </div>
+      <img src="/assets/images/ngqms-queueboard.png" alt="QueueBoard display">
+    </article>
 
-    <div class="platform-card">
-      <div class="icon">◴</div>
+    <article class="product-card">
+      <div class="icon">◔</div>
       <h3>QueueHub</h3>
       <p>Central dashboard for monitoring and analytics.</p>
       <img src="/assets/images/ngqms-queuehub.png" alt="QueueHub dashboard">
-    </div>
+    </article>
   </div>
 </section>
 
-<section id="how-it-works" class="section how-section">
-  <div class="section-header">
+<section id="how-it-works" class="section soft-section">
+  <div class="section-title">
     <h2>How It Works</h2>
-    <p>A simple process for a better service experience.</p>
+    <p>A simple 4-step process for a smoother service experience.</p>
   </div>
 
-  <div class="flow">
-    <div class="flow-item">
+  <div class="steps">
+    <div class="step">
       <span>1</span>
+      <div class="step-icon">▣</div>
       <h3>Take a Ticket</h3>
       <p>Customers take a ticket from the kiosk.</p>
     </div>
 
-    <div class="flow-arrow">→</div>
+    <div class="arrow">→</div>
 
-    <div class="flow-item">
+    <div class="step">
       <span>2</span>
+      <div class="step-icon">👥</div>
       <h3>Wait Comfortably</h3>
-      <p>Live queue updates keep them informed.</p>
+      <p>Live updates keep customers informed.</p>
     </div>
 
-    <div class="flow-arrow">→</div>
+    <div class="arrow">→</div>
 
-    <div class="flow-item">
+    <div class="step">
       <span>3</span>
+      <div class="step-icon">🔊</div>
       <h3>Get Called</h3>
-      <p>The system calls the next ticket automatically.</p>
+      <p>System calls the next ticket automatically.</p>
     </div>
 
-    <div class="flow-arrow">→</div>
+    <div class="arrow">→</div>
 
-    <div class="flow-item">
+    <div class="step">
       <span>4</span>
+      <div class="step-icon">✓</div>
       <h3>Get Served</h3>
       <p>Staff serves the customer efficiently.</p>
     </div>
   </div>
 </section>
 
-<section class="section why-section">
-  <div class="section-header">
+<section class="section">
+  <div class="section-title">
     <h2>Why Choose NGQMS</h2>
-    <p>Built for modern service environments.</p>
+    <p>Built to deliver better outcomes for your organization and customers.</p>
   </div>
 
   <div class="why-grid">
     <div class="why-item">
-      <div class="icon">⚡</div>
+      <div class="why-icon">◷</div>
       <h3>Real-time Visibility</h3>
-      <p>Monitor counters and queues in real time.</p>
+      <p>Monitor all counters and queues in real time.</p>
     </div>
 
     <div class="why-item">
-      <div class="icon">👥</div>
+      <div class="why-icon">👥</div>
       <h3>Multi-counter Support</h3>
-      <p>Handle multiple counters, services, and priority queues.</p>
+      <p>Support multiple counters, services and priority queues.</p>
     </div>
 
     <div class="why-item">
-      <div class="icon">☁</div>
+      <div class="why-icon">▥</div>
+      <h3>Powerful Analytics</h3>
+      <p>Make data-driven decisions with intelligent reports.</p>
+    </div>
+
+    <div class="why-item">
+      <div class="why-icon">☁</div>
       <h3>Cloud Ready</h3>
-      <p>Secure, reliable, and accessible anytime.</p>
+      <p>Secure, reliable and accessible anytime, anywhere.</p>
+    </div>
+
+    <div class="why-item">
+      <div class="why-icon">◇</div>
+      <h3>Secure & Reliable</h3>
+      <p>Designed for dependable operation and enterprise use.</p>
     </div>
   </div>
 </section>
 
-<section class="cta-section">
+<section class="industry-section">
+  <h2>Designed for Every Industry</h2>
+
+  <div class="industry-list">
+    <span>✚ Healthcare</span>
+    <span>▥ Government</span>
+    <span>🏛 Banks</span>
+    <span>⌁ Telecommunications</span>
+    <span>🎓 Education</span>
+    <span>🛒 Retail</span>
+    <span>▦ More</span>
+  </div>
+</section>
+
+<section class="final-cta">
   <div>
-    <h2>Ready to transform your queue experience?</h2>
-    <p>Start managing queues the smart way.</p>
+    <h2>Ready to transform your service experience?</h2>
+    <p>Let’s build smarter queues and happier customers together.</p>
   </div>
 
-  <a href="mailto:enquiry@softbridge.com.my?subject=NGQMS Demo Request" class="btn-light">
-    Request Demo →
-  </a>
+  <a href="mailto:enquiry@softbridge.com.my?subject=NGQMS Demo Request">Request Demo →</a>
 </section>
 
 <style>
-.ngqms-hero {
-  display: grid;
-  grid-template-columns: 1fr 1.15fr;
-  gap: 56px;
-  align-items: center;
-  padding: 80px 5vw 90px;
-  background: linear-gradient(135deg, #ffffff 0%, #f7f4ff 100%);
+:root {
+  --sb-primary: #5b3df5;
+  --sb-primary-dark: #211060;
+  --sb-text: #0f1735;
+  --sb-muted: #667085;
+  --sb-border: #eceaf8;
+  --sb-bg-soft: #fbfaff;
 }
 
-.eyebrow {
-  display: inline-block;
-  margin-bottom: 22px;
-  color: #5b3df5;
-  font-size: 13px;
-  font-weight: 700;
+.ngqms-hero {
+  display: grid;
+  grid-template-columns: 0.9fr 1.1fr;
+  gap: 64px;
+  align-items: center;
+  padding: 72px 5vw 80px;
+  background:
+    radial-gradient(circle at 78% 22%, rgba(91, 61, 245, .12), transparent 32%),
+    linear-gradient(135deg, #ffffff 0%, #f8f6ff 100%);
+}
+
+.breadcrumb {
+  margin-bottom: 34px;
+  font-size: 14px;
+  color: #647087;
+}
+
+.pill {
+  display: inline-flex;
+  margin-bottom: 20px;
+  padding: 8px 12px;
+  border-radius: 999px;
+  background: #f0ecff;
+  color: var(--sb-primary);
+  font-size: 12px;
+  font-weight: 800;
   text-transform: uppercase;
   letter-spacing: .04em;
 }
 
 .ngqms-hero h1 {
+  max-width: 660px;
   margin: 0;
-  font-size: clamp(42px, 6vw, 72px);
+  color: var(--sb-text);
+  font-size: clamp(42px, 5.2vw, 70px);
   line-height: 1.05;
-  font-weight: 800;
-  color: #10132d;
-}
-
-.ngqms-hero h1 span {
-  color: #5b3df5;
+  font-weight: 850;
+  letter-spacing: -0.04em;
 }
 
 .ngqms-hero p {
-  max-width: 520px;
-  margin: 24px 0 32px;
+  max-width: 590px;
+  margin: 26px 0 24px;
+  color: #505b73;
   font-size: 18px;
   line-height: 1.75;
-  color: #596070;
+}
+
+.hero-list {
+  display: grid;
+  gap: 12px;
+  margin: 0 0 34px;
+  padding: 0;
+  list-style: none;
+}
+
+.hero-list li {
+  position: relative;
+  padding-left: 32px;
+  color: #26324d;
+  font-size: 16px;
+}
+
+.hero-list li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  display: grid;
+  place-items: center;
+  border-radius: 999px;
+  background: #f0ecff;
+  color: var(--sb-primary);
+  font-size: 13px;
+  font-weight: 900;
 }
 
 .hero-actions {
@@ -187,220 +265,315 @@ permalink: /ngqms/
 }
 
 .btn-primary,
-.btn-secondary,
-.btn-light {
+.btn-secondary {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-height: 48px;
-  padding: 0 24px;
-  border-radius: 8px;
-  font-weight: 700;
+  min-height: 52px;
+  padding: 0 26px;
+  border-radius: 9px;
+  font-weight: 800;
   text-decoration: none;
 }
 
 .btn-primary {
-  background: #5b3df5;
+  background: var(--sb-primary);
   color: #fff;
-  box-shadow: 0 14px 34px rgba(91, 61, 245, .28);
+  box-shadow: 0 16px 36px rgba(91, 61, 245, .25);
 }
 
 .btn-secondary {
-  border: 1px solid #d8d7e8;
-  color: #10132d;
-  background: #fff;
+  color: var(--sb-text);
+  background: transparent;
 }
 
-.hero-visual img {
+.hero-image img {
   width: 100%;
   display: block;
-  filter: drop-shadow(0 28px 45px rgba(34, 23, 90, .18));
+  filter: drop-shadow(0 30px 50px rgba(29, 20, 88, .18));
 }
 
 .section {
-  padding: 84px 5vw;
+  padding: 78px 5vw;
 }
 
-.section-header {
+.soft-section {
+  background: var(--sb-bg-soft);
+}
+
+.section-title {
+  max-width: 780px;
+  margin: 0 auto 46px;
   text-align: center;
-  max-width: 760px;
-  margin: 0 auto 48px;
 }
 
-.section-header h2 {
-  margin: 0 0 12px;
-  font-size: clamp(30px, 4vw, 44px);
-  color: #10132d;
+.section-title h2,
+.industry-section h2 {
+  margin: 0 0 10px;
+  color: var(--sb-text);
+  font-size: clamp(28px, 3.5vw, 42px);
+  line-height: 1.15;
+  letter-spacing: -0.025em;
 }
 
-.section-header p {
+.section-title p {
   margin: 0;
+  color: var(--sb-muted);
   font-size: 17px;
-  color: #6b7280;
 }
 
 .platform-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 28px;
 }
 
-.platform-card {
+.product-card {
   padding: 32px;
-  border: 1px solid #eceaf8;
+  border: 1px solid var(--sb-border);
   border-radius: 18px;
   background: #fff;
-  box-shadow: 0 18px 40px rgba(20, 20, 50, .06);
+  box-shadow: 0 18px 50px rgba(17, 24, 39, .06);
 }
 
-.platform-card .icon,
-.why-item .icon {
+.icon {
   width: 52px;
   height: 52px;
   display: grid;
   place-items: center;
   margin-bottom: 18px;
   border-radius: 14px;
-  background: #5b3df5;
+  background: linear-gradient(135deg, #6d4cff, #4a32d8);
   color: #fff;
   font-size: 24px;
 }
 
-.platform-card h3,
-.flow-item h3,
-.why-item h3 {
-  margin: 0 0 10px;
-  color: #10132d;
+.product-card h3 {
+  margin: 0 0 8px;
+  color: var(--sb-text);
+  font-size: 22px;
 }
 
-.platform-card p,
-.flow-item p,
-.why-item p {
+.product-card p {
   margin: 0;
-  color: #667085;
+  color: var(--sb-muted);
   line-height: 1.6;
 }
 
-.platform-card img {
+.product-card img {
   width: 100%;
   margin-top: 28px;
   border-radius: 12px;
 }
 
-.how-section {
-  background: #fbfaff;
-}
-
-.flow {
+.steps {
   display: grid;
   grid-template-columns: 1fr auto 1fr auto 1fr auto 1fr;
   gap: 22px;
   align-items: center;
+  max-width: 1180px;
+  margin: 0 auto;
 }
 
-.flow-item {
+.step {
   text-align: center;
 }
 
-.flow-item span {
+.step span {
   display: inline-grid;
   place-items: center;
-  width: 34px;
-  height: 34px;
-  margin-bottom: 16px;
+  width: 32px;
+  height: 32px;
+  margin-bottom: 14px;
   border-radius: 999px;
-  background: #5b3df5;
+  background: var(--sb-primary);
   color: #fff;
-  font-weight: 800;
+  font-weight: 900;
 }
 
-.flow-arrow {
-  color: #5b3df5;
+.step-icon {
+  width: 78px;
+  height: 78px;
+  display: grid;
+  place-items: center;
+  margin: 0 auto 18px;
+  border-radius: 999px;
+  background: #f0ecff;
+  color: var(--sb-primary);
+  font-size: 28px;
+}
+
+.step h3 {
+  margin: 0 0 8px;
+  color: var(--sb-text);
+  font-size: 18px;
+}
+
+.step p {
+  margin: 0;
+  color: var(--sb-muted);
+  line-height: 1.55;
+}
+
+.arrow {
+  color: var(--sb-primary);
   font-size: 30px;
-  font-weight: 800;
+  font-weight: 900;
 }
 
 .why-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 34px;
-  max-width: 1100px;
-  margin: 0 auto;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 28px;
 }
 
 .why-item {
+  padding: 0 22px;
+  text-align: center;
+  border-right: 1px solid var(--sb-border);
+}
+
+.why-item:last-child {
+  border-right: 0;
+}
+
+.why-icon {
+  width: 62px;
+  height: 62px;
   display: grid;
-  grid-template-columns: auto 1fr;
-  gap: 20px;
-  align-items: start;
-}
-
-.why-item .icon {
-  margin: 0;
+  place-items: center;
+  margin: 0 auto 18px;
+  border-radius: 18px;
   background: #f0ecff;
-  color: #5b3df5;
+  color: var(--sb-primary);
+  font-size: 30px;
 }
 
-.cta-section {
-  margin: 40px 5vw 80px;
-  padding: 48px 56px;
+.why-item h3 {
+  margin: 0 0 8px;
+  color: var(--sb-text);
+  font-size: 18px;
+}
+
+.why-item p {
+  margin: 0;
+  color: var(--sb-muted);
+  line-height: 1.55;
+}
+
+.industry-section {
+  padding: 20px 5vw 54px;
+  text-align: center;
+}
+
+.industry-list {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 16px;
+  margin-top: 26px;
+}
+
+.industry-list span {
+  min-height: 64px;
   display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  border: 1px solid var(--sb-border);
+  border-radius: 12px;
+  background: #fff;
+  color: var(--sb-text);
+  font-weight: 700;
+  box-shadow: 0 12px 30px rgba(17, 24, 39, .04);
+}
+
+.final-cta {
+  display: flex;
+  align-items: center;
   justify-content: space-between;
   gap: 28px;
-  align-items: center;
+  margin: 26px 5vw 80px;
+  padding: 48px 56px;
   border-radius: 18px;
-  background: linear-gradient(135deg, #090b2e 0%, #301a86 100%);
   color: #fff;
+  background:
+    radial-gradient(circle at 10% 40%, rgba(255,255,255,.15), transparent 18%),
+    linear-gradient(135deg, #150d4f 0%, #5b3df5 100%);
+  box-shadow: 0 24px 60px rgba(91, 61, 245, .18);
 }
 
-.cta-section h2 {
-  margin: 0 0 10px;
+.final-cta h2 {
+  margin: 0 0 8px;
   font-size: clamp(28px, 4vw, 42px);
+  line-height: 1.15;
 }
 
-.cta-section p {
+.final-cta p {
   margin: 0;
-  color: #d8d4ff;
+  color: #ded9ff;
+  font-size: 17px;
 }
 
-.btn-light {
+.final-cta a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 54px;
+  padding: 0 32px;
+  border-radius: 10px;
   background: #fff;
-  color: #20145f;
+  color: var(--sb-primary-dark);
+  font-weight: 900;
+  text-decoration: none;
   white-space: nowrap;
 }
 
-@media (max-width: 900px) {
-  .ngqms-hero {
+@media (max-width: 1100px) {
+  .ngqms-hero,
+  .platform-grid {
     grid-template-columns: 1fr;
-    padding-top: 56px;
   }
 
-  .platform-grid,
   .why-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .flow {
-    grid-template-columns: 1fr;
-  }
-
-  .flow-arrow {
-    transform: rotate(90deg);
-    text-align: center;
+    grid-template-columns: repeat(2, 1fr);
   }
 
   .why-item {
+    border-right: 0;
+  }
+
+  .industry-list {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 760px) {
+  .ngqms-hero {
+    padding-top: 44px;
+    gap: 40px;
+  }
+
+  .steps {
     grid-template-columns: 1fr;
-    text-align: center;
   }
 
-  .why-item .icon {
-    margin: 0 auto;
+  .arrow {
+    transform: rotate(90deg);
   }
 
-  .cta-section {
+  .why-grid,
+  .industry-list {
+    grid-template-columns: 1fr;
+  }
+
+  .final-cta {
     flex-direction: column;
     align-items: flex-start;
+    padding: 36px 28px;
+  }
+
+  .final-cta a {
+    width: 100%;
   }
 }
 </style>
