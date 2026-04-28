@@ -53,6 +53,7 @@ ol li {
   height: 100%;
 
   /* Fade from solid white → transparent */
+  /* 
   background: linear-gradient(
     to right,
     #ffffff 0%,
@@ -60,7 +61,14 @@ ol li {
     rgba(255, 255, 255, 0.6) 70%,
     rgba(255, 255, 255, 0) 100%
   );
-
+  */
+  background: linear-gradient(
+    to right,
+    #f8f9ff 0%,
+    rgba(248, 249, 255, 0.9) 40%,
+    rgba(248, 249, 255, 0.6) 70%,
+    rgba(248, 249, 255, 0) 100%
+  );
   pointer-events: none;
 }
 
