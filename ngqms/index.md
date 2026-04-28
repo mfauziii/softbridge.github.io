@@ -58,8 +58,19 @@ title: NGQMS
     </p>
 
     <div class="row g-4">
+      <div class="col-md-6 col-lg-3">
+        <div class="card h-100 shadow-sm">
+          <div class="card-body text-start">
+            <h5 class="fw-bold">QueueDesk</h5>
+            <p class="text-muted">
+              Staff interface to manage queues and serve customers.
+            </p>
+            <img src="../assets/images/ngqms-optz-qkiosk.png" class="img-fluid rounded mt-3">
+          </div>
+        </div>
+      </div>
 
-      <div class="col-md-4">
+      <div class="col-md-6 col-lg-3">
         <div class="card h-100 shadow-sm">
           <div class="card-body text-start">
             <h5 class="fw-bold">QueueDesk</h5>
@@ -71,7 +82,7 @@ title: NGQMS
         </div>
       </div>
 
-      <div class="col-md-4">
+      <div class="col-md-6 col-lg-3">
         <div class="card h-100 shadow-sm">
           <div class="card-body text-start">
             <h5 class="fw-bold">QueueBoard</h5>
@@ -83,7 +94,7 @@ title: NGQMS
         </div>
       </div>
 
-      <div class="col-md-4">
+      <div class="col-md-6 col-lg-3">
         <div class="card h-100 shadow-sm">
           <div class="card-body text-start">
             <h5 class="fw-bold">QueueHub</h5>
