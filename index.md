@@ -32,10 +32,10 @@ layout: sbx_main
       </div>
 
       <!-- RIGHT -->
-      <div class="col-lg-6 text-center">
+      <div class="col-lg-6 position-relative hero-image-wrapper">
         <img src="/assets/images/ngqms-optz-dash.png"
-             class="img-fluid shadow-lg rounded-4"
-             alt="NGQMS Dashboard">
+             class="img-fluid hero-image"
+             alt="NGQMS System">
       </div>
 
     </div>
