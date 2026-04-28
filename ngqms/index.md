@@ -66,7 +66,7 @@ title: NGQMS
             <p class="text-muted">
               Staff interface to manage queues and serve customers.
             </p>
-            <img src="/assets/images/ngqms-queuedesk.png" class="img-fluid rounded mt-3">
+            <img src="../assets/images/ngqms-optz-qdesk.png" class="img-fluid rounded mt-3">
           </div>
         </div>
       </div>
