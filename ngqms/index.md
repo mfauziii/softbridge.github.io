@@ -90,7 +90,7 @@ title: NGQMS
             <p class="text-muted">
               Central dashboard for monitoring and analytics.
             </p>
-            <img src="/assets/images/ngqms-queuehub.png" class="img-fluid rounded mt-3">
+            <img src="../assets/images/ngqms-optz-qhub.png" class="img-fluid rounded mt-3">
           </div>
         </div>
       </div>
