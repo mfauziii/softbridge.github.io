@@ -33,7 +33,7 @@ layout: sbx_main
 
       <!-- RIGHT -->
       <div class="col-lg-6 text-center">
-        <img src="/assets/images/ngqms-dashboard.png"
+        <img src="/assets/images/ngqms-optz-dash.png"
              class="img-fluid shadow-lg rounded-4"
              alt="NGQMS Dashboard">
       </div>
