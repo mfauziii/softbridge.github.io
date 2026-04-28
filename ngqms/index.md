@@ -29,7 +29,7 @@ permalink: /ngqms/
   </div>
 
   <div class="hero-visual">
-    <img src="/assets/images/ngqms-hero.png" alt="NGQMS queue management system display">
+    <img src="../assets/images/queuedesk-white-hero-opt.png" alt="NGQMS queue management system display">
   </div>
 </section>
 
