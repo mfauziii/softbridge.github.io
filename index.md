@@ -32,12 +32,15 @@ layout: sbx_main
       </div>
 
       <!-- RIGHT -->
-      <div class="col-lg-6 position-relative hero-image-wrapper">
+      <div class="col-lg-6 position-relative">
+        <!-- IMAGE -->
         <img src="/assets/images/ngqms-optz-dash.png"
              class="img-fluid hero-image"
              alt="NGQMS System">
+      
+        <!-- FADE OVERLAY -->
+        <div class="hero-fade"></div>
       </div>
-
     </div>
   </div>
 </section>
