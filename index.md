@@ -44,7 +44,7 @@ layout: sbx_main
   </div>
 </section>
 
-<section class="py-5 bg-light">
+<section class="py-5">
   <div class="container text-center">
 
     <h2 class="fw-bold mb-4">Solutions Built for Smarter Operations</h2>
