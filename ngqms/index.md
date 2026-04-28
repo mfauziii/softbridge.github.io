@@ -78,7 +78,7 @@ title: NGQMS
             <p class="text-muted">
               Live display to keep customers informed.
             </p>
-            <img src="/assets/images/ngqms-queueboard.png" class="img-fluid rounded mt-3">
+            <img src="../assets/images/ngqms-optz-qboard.png" class="img-fluid rounded mt-3">
           </div>
         </div>
       </div>
