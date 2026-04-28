@@ -30,7 +30,7 @@ permalink: /ngqms/
   </div>
 
   <div class="hero-image">
-    <img src="/assets/images/ngqms-hero.png" alt="NGQMS platform dashboard, queue board and kiosk">
+    <img src="../assets/images/ngqms-optz-lite-system-setup.png" alt="NGQMS platform dashboard, queue board and kiosk">
   </div>
 </section>
 
