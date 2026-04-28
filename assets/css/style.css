@@ -23,6 +23,7 @@ html {
 
 body {
   margin-bottom: 60px;
+  background: linear-gradient(180deg, #ffffff 0%, #f8f9ff 100%);
 }
 
 ol {
