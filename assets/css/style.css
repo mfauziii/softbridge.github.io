@@ -27,6 +27,16 @@ ol li {
     margin-bottom: 10px; /* Adjust the value as needed */
 }
 
+.hero-section {
+  background: linear-gradient(180deg, #ffffff 0%, #f8f9ff 100%);
+}
+
+.text-gradient {
+  background: linear-gradient(90deg, #6f42c1, #0d6efd);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .navbar-collapse-fullpage.collapse {
     width: 100vw;
     height: 100vh;
