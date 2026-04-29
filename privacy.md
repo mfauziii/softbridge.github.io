@@ -1,7 +1,7 @@
 ---
 layout: sbx_main
 title: Privacy Policy
-permalink: /privacy/
+permalink: /privacy
 ---
 
 <section class="py-5">
