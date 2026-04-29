@@ -111,7 +111,7 @@ title: NGQMS
 </section>
 
 <!-- HOW IT WORKS -->
-<section id="how-it-works" class="section how-section">
+<section id="how-it-works" class="section how-section py-5">
   <div class="container text-center">
     <div class="section-header">
       <h2>How It Works</h2>
@@ -153,31 +153,28 @@ title: NGQMS
 </section>
 
 <!-- WHY -->
-<section class="section why-section">
+<section class="py-5 bg-light">
   <div class="container text-center">
-    <div class="section-header">
-      <h2>Why Choose NGQMS</h2>
-      <p>Built for modern service environments.</p>
-    </div>
-  
-    <div class="why-grid">
-      <div class="why-item">
-        <div class="icon">⚡</div>
-        <h3>Real-time Visibility</h3>
-        <p>Monitor counters and queues in real time.</p>
+
+    <h2 class="fw-bold mb-4">Why Choose NGQMS</h2>
+
+    <div class="row g-4">
+
+      <div class="col-md-4">
+        <h5 class="fw-bold">Real-time Visibility</h5>
+        <p class="text-muted">Monitor queues instantly</p>
       </div>
-  
-      <div class="why-item">
-        <div class="icon">👥</div>
-        <h3>Multi-counter Support</h3>
-        <p>Handle multiple counters, services, and priority queues.</p>
+
+      <div class="col-md-4">
+        <h5 class="fw-bold">Multi-counter Support</h5>
+        <p class="text-muted">Handle multiple service points</p>
       </div>
-  
-      <div class="why-item">
-        <div class="icon">☁</div>
-        <h3>Cloud Ready</h3>
-        <p>Secure, reliable, and accessible anytime.</p>
+
+      <div class="col-md-4">
+        <h5 class="fw-bold">Cloud Ready</h5>
+        <p class="text-muted">Secure & accessible anywhere</p>
       </div>
+
     </div>
   </div>
 </section>
@@ -233,27 +230,6 @@ title: NGQMS
     color: #5b3df5;
     font-size: 30px;
     font-weight: 800;
-  }
-
-  .why-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 34px;
-    max-width: 1100px;
-    margin: 0 auto;
-  }
-  
-  .why-item {
-    display: grid;
-    grid-template-columns: auto 1fr;
-    gap: 20px;
-    align-items: start;
-  }
-  
-  .why-item .icon {
-    margin: 0;
-    background: #f0ecff;
-    color: #5b3df5;
   }
 
 </style>
