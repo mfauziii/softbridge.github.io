@@ -119,7 +119,7 @@ permalink: /aboutus
       </div>
 
       <div class="col-lg-6 text-center">
-        <img src="/assets/images/about-illustration.png"
+        <img src="/assets/images/optz_aboutus.png"
              class="img-fluid"
              alt="SOFTBRIDGE technology">
       </div>
