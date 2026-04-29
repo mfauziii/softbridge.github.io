@@ -1,7 +1,7 @@
 ---
 layout: products
 title: MSAD Insights
-permalink: /products/msad-insights
+permalink: /msad-insights
 ---
 
 <section class="py-5">
