@@ -1,5 +1,5 @@
 ---
-layout: sbx_main
+layout: products
 title: Services
 permalink: /services
 ---
