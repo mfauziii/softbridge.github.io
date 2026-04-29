@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: products
 title: "NGQMS – Smart Queue Management System | SOFTBRIDGE Enterprise"
 description: "NGQMS Lite is a cloud-based queue management system designed to improve customer flow, reduce waiting time, and enhance service experience for clinics and service businesses."
 keywords: "queue management system, QMS, digital queue, clinic queue system, customer flow management, queue display system, queue kiosk, cloud QMS, NGQMS, SOFTBRIDGE"
