@@ -111,40 +111,41 @@ title: NGQMS
 </section>
 
 <!-- HOW IT WORKS -->
-<section id="how-it-works" class="py-5">
-  <div class="container text-center">
+<section id="how-it-works" class="section how-section">
+  <div class="section-header">
+    <h2>How It Works</h2>
+    <p>A simple process for a better service experience.</p>
+  </div>
 
-    <h2 class="fw-bold mb-2">How It Works</h2>
-    <p class="text-muted mb-5">Simple flow for better service experience.</p>
+  <div class="flow">
+    <div class="flow-item">
+      <span>1</span>
+      <h3>Take a Ticket</h3>
+      <p>Customers take a ticket from the kiosk.</p>
+    </div>
 
-    <div class="row g-4 align-items-center">
+    <div class="flow-arrow">→</div>
 
-      <div class="col-md">
-        <h5 class="fw-bold">1. Take Ticket</h5>
-        <p class="text-muted">Customer gets queue number</p>
-      </div>
+    <div class="flow-item">
+      <span>2</span>
+      <h3>Wait Comfortably</h3>
+      <p>Live queue updates keep them informed.</p>
+    </div>
 
-      <div class="col-md-auto">→</div>
+    <div class="flow-arrow">→</div>
 
-      <div class="col-md">
-        <h5 class="fw-bold">2. Wait</h5>
-        <p class="text-muted">Real-time updates shown</p>
-      </div>
+    <div class="flow-item">
+      <span>3</span>
+      <h3>Get Called</h3>
+      <p>The system calls the next ticket automatically.</p>
+    </div>
 
-      <div class="col-md-auto">→</div>
+    <div class="flow-arrow">→</div>
 
-      <div class="col-md">
-        <h5 class="fw-bold">3. Called</h5>
-        <p class="text-muted">Staff calls next queue</p>
-      </div>
-
-      <div class="col-md-auto">→</div>
-
-      <div class="col-md">
-        <h5 class="fw-bold">4. Served</h5>
-        <p class="text-muted">Customer gets service</p>
-      </div>
-
+    <div class="flow-item">
+      <span>4</span>
+      <h3>Get Served</h3>
+      <p>Staff serves the customer efficiently.</p>
     </div>
   </div>
 </section>
@@ -194,3 +195,38 @@ title: NGQMS
 
   </div>
 </section>
+
+<style>
+  .how-section {
+    background: #fbfaff;
+  }
+  
+  .flow {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr auto 1fr auto 1fr;
+    gap: 22px;
+    align-items: center;
+  }
+  
+  .flow-item {
+    text-align: center;
+  }
+  
+  .flow-item span {
+    display: inline-grid;
+    place-items: center;
+    width: 34px;
+    height: 34px;
+    margin-bottom: 16px;
+    border-radius: 999px;
+    background: #5b3df5;
+    color: #fff;
+    font-weight: 800;
+  }
+  
+  .flow-arrow {
+    color: #5b3df5;
+    font-size: 30px;
+    font-weight: 800;
+  }
+</style>
