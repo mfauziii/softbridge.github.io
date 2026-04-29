@@ -27,7 +27,7 @@ title: NGQMS
           <li>✔ Data-driven decision making</li>
         </ul>
 
-        <div class="d-flex gap-3">
+        <div class="d-flex gap-3 mb-4">
           <a href="/contact" class="btn btn-primary btn-lg">
             Request Demo
           </a>
