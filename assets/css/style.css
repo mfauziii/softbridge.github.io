@@ -36,14 +36,17 @@ ol li {
 
 .cta-section {
   margin: 40px 5vw 80px;
-  padding: 48px 56px;
   display: flex;
   justify-content: space-between;
   gap: 28px;
   align-items: center;
+  color: #fff;
+}
+
+.cta-section .container{
   border-radius: 18px;
   background: linear-gradient(135deg, #090b2e 0%, #301a86 100%);
-  color: #fff;
+  padding: 48px 56px;
 }
 
 .hero-section {
