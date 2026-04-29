@@ -1,7 +1,7 @@
 ---
 layout: sbx_main
 title: About Us
-permalink: /aboutus/
+permalink: /aboutus
 ---
 
 <section class="py-5">
