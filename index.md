@@ -52,7 +52,7 @@ layout: sbx_main
     <div class="row g-4">
 
       <div class="col-md-4">
-        <div class="card h-100 border-primary shadow-sm">
+        <div class="card ngqms-card h-100 border-primary shadow-sm">
           <div class="card-body text-start">
             <h5 class="fw-bold">NGQMS</h5>
             <p class="text-muted">Smart Queue Management System with real-time monitoring.</p>
@@ -61,7 +61,7 @@ layout: sbx_main
       </div>
 
       <div class="col-md-4">
-        <div class="card h-100 shadow-sm">
+        <div class="card ngqms-card h-100 shadow-sm">
           <div class="card-body text-start">
             <h5 class="fw-bold">MSAD Insights</h5>
             <p class="text-muted">Active Directory monitoring and analytics.</p>
@@ -70,7 +70,7 @@ layout: sbx_main
       </div>
 
       <div class="col-md-4">
-        <div class="card h-100 shadow-sm">
+        <div class="card ngqms-card h-100 shadow-sm">
           <div class="card-body text-start">
             <h5 class="fw-bold">Custom Solutions</h5>
             <p class="text-muted">Tailored web, mobile, and enterprise solutions.</p>
