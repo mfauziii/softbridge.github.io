@@ -43,11 +43,11 @@ ol li {
   color: #fff;
 }
 
-.cta-section .container{
-  border-radius: 18px;
-  background: linear-gradient(135deg, #090b2e 0%, #301a86 100%);
-  padding: 48px 56px;
-}
+  .cta-section .container{
+    border-radius: 18px;
+    background: linear-gradient(135deg, #090b2e 0%, #301a86 100%);
+    padding: 48px 56px;
+  }
 
 .hero-section {
   /*background: linear-gradient(180deg, #ffffff 0%, #f8f9ff 100%);*/
