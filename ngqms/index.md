@@ -177,7 +177,7 @@ title: NGQMS
 </section>
 
 <!-- CTA -->
-<section class="py-5">
+<section class="cta-section py-5">
   <div class="container text-center">
 
     <h2 class="fw-bold mb-3">
