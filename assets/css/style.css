@@ -34,6 +34,18 @@ ol li {
     margin-bottom: 10px; /* Adjust the value as needed */
 }
 
+.cta-section {
+  margin: 40px 5vw 80px;
+  padding: 48px 56px;
+  display: flex;
+  justify-content: space-between;
+  gap: 28px;
+  align-items: center;
+  border-radius: 18px;
+  background: linear-gradient(135deg, #090b2e 0%, #301a86 100%);
+  color: #fff;
+}
+
 .hero-section {
   /*background: linear-gradient(180deg, #ffffff 0%, #f8f9ff 100%);*/
 }
