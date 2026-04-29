@@ -112,40 +112,42 @@ title: NGQMS
 
 <!-- HOW IT WORKS -->
 <section id="how-it-works" class="section how-section">
-  <div class="section-header">
-    <h2>How It Works</h2>
-    <p>A simple process for a better service experience.</p>
-  </div>
-
-  <div class="flow">
-    <div class="flow-item">
-      <span>1</span>
-      <h3>Take a Ticket</h3>
-      <p>Customers take a ticket from the kiosk.</p>
+  <div class="container text-center">
+    <div class="section-header">
+      <h2>How It Works</h2>
+      <p>A simple process for a better service experience.</p>
     </div>
-
-    <div class="flow-arrow">→</div>
-
-    <div class="flow-item">
-      <span>2</span>
-      <h3>Wait Comfortably</h3>
-      <p>Live queue updates keep them informed.</p>
-    </div>
-
-    <div class="flow-arrow">→</div>
-
-    <div class="flow-item">
-      <span>3</span>
-      <h3>Get Called</h3>
-      <p>The system calls the next ticket automatically.</p>
-    </div>
-
-    <div class="flow-arrow">→</div>
-
-    <div class="flow-item">
-      <span>4</span>
-      <h3>Get Served</h3>
-      <p>Staff serves the customer efficiently.</p>
+  
+    <div class="flow">
+      <div class="flow-item">
+        <span>1</span>
+        <h3>Take a Ticket</h3>
+        <p>Customers take a ticket from the kiosk.</p>
+      </div>
+  
+      <div class="flow-arrow">→</div>
+  
+      <div class="flow-item">
+        <span>2</span>
+        <h3>Wait Comfortably</h3>
+        <p>Live queue updates keep them informed.</p>
+      </div>
+  
+      <div class="flow-arrow">→</div>
+  
+      <div class="flow-item">
+        <span>3</span>
+        <h3>Get Called</h3>
+        <p>The system calls the next ticket automatically.</p>
+      </div>
+  
+      <div class="flow-arrow">→</div>
+  
+      <div class="flow-item">
+        <span>4</span>
+        <h3>Get Served</h3>
+        <p>Staff serves the customer efficiently.</p>
+      </div>
     </div>
   </div>
 </section>
