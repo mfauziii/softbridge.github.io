@@ -1,5 +1,5 @@
 ---
-layout: products
+layout: pricingplans
 title: "NGQMS Pricing"
 description: "Flexible and scalable pricing for NGQMS Lite, Pro, and Enterprise queue management solutions by SOFTBRIDGE Enterprise."
 keywords: "queue management system pricing, NGQMS pricing, queue system Malaysia, universal queue orchestration platform cost, cloud QMS pricing, NGQMS is designed for any environment where customers wait."
